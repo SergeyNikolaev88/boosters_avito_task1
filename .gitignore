@@ -1,0 +1,13 @@
+.idea/misc.xml
+.idea/modules.xml
+.idea/task1.iml
+.idea/workspace.xml
+.ipynb_checkpoints/
+__pycache__/
+coins/
+coins_count/coins_count/__init__.pyc
+coins_count/coins_count/__pycache__/
+coins_count/coins_count/settings.pyc
+coins_count/coins_count/spiders/__init__.pyc
+coins_count/coins_count/spiders/__pycache__/
+coins_count/coins_count/spiders/avcoins.pyc
